@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaesupersu18melauoft/operaquaesupersu18melauoft_0011.png"; bbox 0 0 2456 2985; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 225 1006 1913 1177">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 225 1006 1913 1177">
+     <span class='ocr_line' id='line_1_1' title="bbox 860 1006 1277 1054; baseline 0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 860 1006 1277 1054; x_wconf 72' lang='lat' dir='ltr'><strong>LIBRI</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 225 1113 1913 1177; baseline 0.003 -5"><span class='ocrx_word' id='word_1_2' title='bbox 225 1113 862 1172; x_wconf 84' lang='lat' dir='ltr'><strong>PHILIPPI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 938 1116 1913 1177; x_wconf 74' lang='lat' dir='ltr'><strong>MELANTHONIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 53 1236 2075 1380">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 53 1236 2075 1380">
+     <span class='ocr_line' id='line_1_3' title="bbox 53 1236 2075 1282; baseline 0.001 -8"><span class='ocrx_word' id='word_1_4' title='bbox 53 1237 412 1282; x_wconf 54' lang='lat' dir='ltr'><strong>1³11Qt11311s</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 448 1236 1250 1275; x_wconf 57' lang='lat' dir='ltr'><strong>Al]c:T(]1{E53(3L24853lc()s</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1291 1239 1429 1277; x_wconf 53' lang='lat' dir='ltr'>AXIJT</span> <span class='ocrx_word' id='word_1_7' title='bbox 1470 1241 2075 1281; x_wconf 48' lang='lat' dir='ltr'><strong>ElNAAIthax⁷ITJ.AIJT</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 710 1340 1411 1380; baseline 0.007 -5"><span class='ocrx_word' id='word_1_8' title='bbox 710 1340 1241 1377; x_wconf 82' lang='lat' dir='ltr'><strong>INTERPRETATUS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1287 1342 1411 1380; x_wconf 48' lang='lat' dir='ltr'><strong>Est</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 886 1441 1236 1475">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 886 1441 1236 1475">
+     <span class='ocr_line' id='line_1_5' title="bbox 886 1441 1236 1475; baseline 0 -8"><span class='ocrx_word' id='word_1_10' title='bbox 886 1441 1067 1473; x_wconf 57' lang='lat' dir='ltr'><strong>{colex</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1077 1444 1215 1467; x_wconf 73' lang='grc' dir='ltr'><strong>υυυυυυ</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1226 1446 1236 1475; x_wconf 75' lang='lat' dir='ltr'>J</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
